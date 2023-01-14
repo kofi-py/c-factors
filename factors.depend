@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672254931 source:c:\users\pasto\onedrive\desktop\factors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
